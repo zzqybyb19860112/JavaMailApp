@@ -24,7 +24,9 @@ import com.ybyb.zzq.javamailapp.R;
 import com.ybyb.zzq.javamailapp.manager.MailManager;
 import javax.mail.Folder;
 import javax.mail.Store;
-
+/**
+*主页面
+*/
 public class MainActivity extends AppCompatActivity {
     private EditText mEmailAccountEt;
     private EditText mEmailPasswordEt;

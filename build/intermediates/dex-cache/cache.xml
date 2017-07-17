@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\JavaMailApp\app\libs\javax.mail-1.5.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab5daef2f881c42c8e280cbe918ec4d7fdfd7efe">
+        <dex dex="F:\JavaMailApp\app\build\intermediates\pre-dexed\debug\javax.mail-1.5.6_3521222898dc55b8c5815ad0627151cdc52ec735.jar" />
+    </item>
+
+</items>

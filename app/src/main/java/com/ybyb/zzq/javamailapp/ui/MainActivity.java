@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
                             Folder inbox = store.getFolder("INBOX");
                             inbox.open(Folder.READ_ONLY);
                             javax.mail.Message[] messages = inbox.getMessages();
-                            List<Email> emails = new ArrayList<Email>();
+                            final List<Email> emails = new ArrayList<Email>();
                             for (javax.mail.Message msg : messages) {
                                 Email email = new Email();
                                 if (finalType == AppConstants.TYPE_IMAP) {
@@ -176,7 +176,12 @@ public class MainActivity extends AppCompatActivity {
                                 }
                                 emails.add(email);
                             }
-                            Log.e("tag", "result====>" + emails.size());
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(MainActivity.this, "接受邮件成功，收件箱邮件数为："+emails.size(), Toast.LENGTH_SHORT).show();
+                                }
+                            });
                         } catch (Exception e) {
                             e.printStackTrace();
                         }

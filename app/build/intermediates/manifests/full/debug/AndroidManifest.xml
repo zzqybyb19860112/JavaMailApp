@@ -28,8 +28,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.ybyb.zzq.javamailapp.ui.MailActivity" >
-        </activity>
         <activity android:name="com.ybyb.zzq.javamailapp.ui.SendActivity" >
         </activity>
     </application>

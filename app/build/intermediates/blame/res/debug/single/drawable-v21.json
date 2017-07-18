@@ -4,8 +4,16 @@
         "source": "C:\\Users\\zzqybyb19860112\\.android\\build-cache\\2707a93a54f795841f7d3071620a82009b9213d9\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "G:\\MyCode\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\zzqybyb19860112\\.android\\build-cache\\2707a93a54f795841f7d3071620a82009b9213d9\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
         "merged": "F:\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\zzqybyb19860112\\.android\\build-cache\\2707a93a54f795841f7d3071620a82009b9213d9\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\MyCode\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\zzqybyb19860112\\.android\\build-cache\\2707a93a54f795841f7d3071620a82009b9213d9\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "F:\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
@@ -14,5 +22,13 @@
     {
         "merged": "F:\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\zzqybyb19860112\\.android\\build-cache\\2707a93a54f795841f7d3071620a82009b9213d9\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "G:\\MyCode\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\zzqybyb19860112\\.android\\build-cache\\2707a93a54f795841f7d3071620a82009b9213d9\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "G:\\MyCode\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\zzqybyb19860112\\.android\\build-cache\\2707a93a54f795841f7d3071620a82009b9213d9\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     }
 ]

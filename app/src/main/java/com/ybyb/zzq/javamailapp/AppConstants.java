@@ -9,4 +9,7 @@ public class AppConstants {
     public static final int TYPE_IMAP=1;
     public static final int TYPE_POP=2;
     public static final int TYPE_STMP=3;
+    public interface Validator {
+        String REGEX_EMAIL = "[\\w\\.\\-_]+@[\\w-]+[\\.][\\w-]+[\\w-_.]*";
+    }
 }

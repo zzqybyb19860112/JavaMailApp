@@ -4,6 +4,14 @@
         "source": "F:\\JavaMailApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "G:\\MyCode\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "G:\\MyCode\\JavaMailApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\MyCode\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "G:\\MyCode\\JavaMailApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\JavaMailApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
         "source": "F:\\JavaMailApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     }
